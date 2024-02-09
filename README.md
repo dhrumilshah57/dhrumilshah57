@@ -10,5 +10,7 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
 </p>
