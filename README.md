@@ -16,4 +16,3 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
 </p>
-https://github-readme-stats.vercel.app/api?username=dhrumilshah7&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats
