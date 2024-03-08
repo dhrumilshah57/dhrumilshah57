@@ -17,3 +17,4 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
 </p>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
