@@ -16,8 +16,10 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
 </p> -->
-![https://drive.google.com/file/d/1LXJnxXTUkn1CaWKU_xSq64EnoFThTW7r/view?usp=sharing](https://drive.google.com/file/d/1LXJnxXTUkn1CaWKU_xSq64EnoFThTW7r/view?usp=sharing)
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1LXJnxXTUkn1CaWKU_xSq64EnoFThTW7r/view?usp=sharing"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumilshah57&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
 
 
