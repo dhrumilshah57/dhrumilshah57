@@ -64,13 +64,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yashpatel458&&show_icons=true&title_color=1cded5&icon_color=1cded5&text_color=1cded5&bg_color=191919">
 
 <a href="https://github.com/yashpatel458">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel458&text_color=00FF66&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumilshah57&text_color=00FF66&theme=dark&hide_langs_below=1" />
 </a>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashpatel458&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dhrumilshah57&theme=Dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
