@@ -21,11 +21,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumilshah57&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
 
 
- 🔭 I’m currently working on **Web Development**
+ 🔭 I’m currently working as **Software Engineer**
 
- 🌱 I’m currently learning **JS Frameworks**
+ 🌱 I’m currently learning **AWS solution Architect**
 
- 🤝 I’m looking for **Frontend Developer Internship**
+ 🤝 I’m looking for **Backend Developer Internship**
 
  📫 Reach me at **dhrumilshah672001@gmail.com**
 
