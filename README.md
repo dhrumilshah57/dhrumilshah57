@@ -1,7 +1,7 @@
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hello%20world%20I'm%20Dhrumil&section=header&textBg=false&descAlign=51"/>
 </p>
-<!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+ <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="45" height="45"/>
@@ -17,9 +17,7 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
 </p> -->
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1LXJnxXTUkn1CaWKU_xSq64EnoFThTW7r/view?usp=sharing"/>
-</p>
+![](https://github.com/dhrumilshah57/dhrumilshah57/blob/main/DhrumilShah57.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumilshah57&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
 
 
