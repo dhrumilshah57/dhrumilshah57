@@ -16,7 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="45"/>
 </p> -->
-![Red and Black Graphic Dynamic Sports Football Team Banner](DhrumilShah57.gif)
+![DhrumilShah57.gif](https://github.com/dhrumilshah57/dhrumilshah57/blob/main/DhrumilShah57.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumilshah57&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
 
