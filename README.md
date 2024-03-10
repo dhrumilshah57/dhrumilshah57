@@ -27,9 +27,9 @@
 
  🤝 I’m looking for **Frontend Developer Internship**
 
- 📫 Reach me at **yashpatel.cse@gmail.com**
+ 📫 Reach me at **dhrumilshah672001@gmail.com**
 
- 📄 Know about my experiences at [https://www.linkedin.com/in/dhrumilshah57/](https://www.linkedin.com/in/yashpatel458/)
+ 📄 Know about my experiences at [https://www.linkedin.com/in/dhrumilshah57/](https://www.linkedin.com/in/dhrumilshah57/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
