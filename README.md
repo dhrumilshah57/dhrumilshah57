@@ -18,7 +18,7 @@
 </p>
 ![Red and Black Graphic Dynamic Sports Football Team Banner](https://user-images.githubusercontent.com/68161473/130409384-21110a30-7e4d-4b5e-a2fb-1bd6319a0c93.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel458&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrumilshah57&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel458" /> </p>
 
 
  🔭 I’m currently working on **Web Development**
@@ -29,13 +29,13 @@
 
  📫 Reach me at **yashpatel.cse@gmail.com**
 
- 📄 Know about my experiences at [https://www.linkedin.com/in/yashpatel458/](https://www.linkedin.com/in/yashpatel458/)
+ 📄 Know about my experiences at [https://www.linkedin.com/in/dhrumilshah57/](https://www.linkedin.com/in/yashpatel458/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashpatel458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpatel458" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashpatel458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel458" height="30" width="40" /></a>
-<a href="https://instagram.com/yasssspatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patelyash_07" height="30" width="40" /></a>
+<a href="https://twitter.com/yashpatel458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrumilshah57" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhrumilshah57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrumilshah57" height="30" width="40" /></a>
+<a href="https://instagram.com/dhrumil_shah_57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhrumilshah57" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
